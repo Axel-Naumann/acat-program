@@ -1,30 +1,18 @@
-This track includes topics that impact how we do physics analysis and research that are related to the enabling technology. Here is a fairly detailed list of possibilities (which isn't, of course, complete!).
+How do we do physics analysis and research, what are enabling technologies?
 
-  - Languages, Software quality, IDE and User Interfaces
-    - Languages (new C++ standard, Java, ...), language interoperability, code portability
-    - Software quality assurance; code reflection; documentation, performance and debugging tools
-    - Computer system Benchmarking, beyond Linpack  
-    - IDE and frameworks
-    - User Interfaces, Common Libraries.
-  - Distributed and Parallel Computing
-    - Multilevel parallelism
-    - Distributed computing
-    - GRID and Cloud computing
-  - Architectures
-    - New architectures
-    - Massive Multicore
-    - High Performance Computing
-    - Accelerator-based computing (GPGPU’s, FPGA’s)
-    - High and low precision floating-point (quad/octuple precision and short float for CUDA)
-  - Virtualization
-    - Containerization (shifter, remote scripting)
-    - Hardware abstraction
-    - Clouds
-  - Networking
-    - New TCP control and routing mechanism
-    - Alternative to ethernet
-  - Online computing
-    - Advanced Monitoring, Diagnostics and Control
-    - Scalable distributed data collectors
-    - High Level Triggering (HLT)
-    - Stream event processing & High Throughput Computing (HTC)
+  - Software
+    - Languages, interoperability
+    - Software development and quality
+  - Computing
+    - Distributed and parallel computing, including programming models
+    - Architectures, from accelerators (GPU, ASIC, FPGA) to HPC
+    - Floating-point models
+    - Hardware abstractions
+    - Online computing, including data transfer, High Level Triggering (HLT)
+    - Advanced computing models such as Quantum Computing
+  - Data
+    - Data transfer, networking
+    - Data formats and compression
+  - Simulation and visualization
+    - Detector and accelerator simulations, full and fast
+    - Visualization techniques; event displays
