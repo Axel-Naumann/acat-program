@@ -3,6 +3,7 @@ How do we do physics analysis and research, what are enabling technologies?
   - Software
     - Languages, interoperability
     - Software development and quality
+    - Analysis libraries and tools
   - Computing
     - Distributed and parallel computing, including programming models
     - Architectures, from accelerators (GPU, ASIC, FPGA) to HPC
